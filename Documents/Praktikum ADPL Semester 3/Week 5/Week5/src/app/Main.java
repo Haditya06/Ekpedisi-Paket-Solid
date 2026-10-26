@@ -20,6 +20,7 @@ import view.StrukViewCli;
 //[DIP] Main adalah composition root: satu-satunya tempat yang mengenal kelas konkret
 //      Di sinilah semua objek dirakit lalu disuntikkan/dependencies ke Controller.
 //      Mengganti implementasi (penyimpanan atau tampilan) cukup di file ini saja.
+// doi
 public class Main {
         public static void main(String[] args) {
                 KendaraanRepository kendaraanRepository = new KendaraanRepositoryArrayList();
