@@ -1,0 +1,12 @@
+com\mycompany\ekpedisipaket\layanan\LayananPengiriman.class
+com\mycompany\ekpedisipaket\model\Pengiriman.class
+com\mycompany\ekpedisipaket\layanan\LayananReguler.class
+com\mycompany\ekpedisipaket\repository\RiwayatArrayList.class
+com\mycompany\ekpedisipaket\layanan\LayananEkonomi.class
+com\mycompany\ekpedisipaket\view\FormatPengiriman.class
+com\mycompany\ekpedisipaket\layanan\BisaDiasuransikan.class
+com\mycompany\ekpedisipaket\repository\RiwayatRepository.class
+com\mycompany\ekpedisipaket\Main.class
+com\mycompany\ekpedisipaket\service\PengirimanService.class
+com\mycompany\ekpedisipaket\view\FormatPengiriman$1.class
+com\mycompany\ekpedisipaket\EkpedisiPaket.class
